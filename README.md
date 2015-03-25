@@ -1,8 +1,8 @@
-### DataKind Dublin 
+##### DataKind Dublin 2015
 
-## Volunteer Ireland 2015
+## Volunteer Ireland
 
-# Volunteer Information Project
+# Volunteer Information Project 2015
 
 
 ---
@@ -15,7 +15,7 @@
 e.g. in Mac OSX terminal:
 
         workspace$ git clone [GITHUB_PATH]
-        workspace$ cd vi2015
+        workspace$ cd volunteerireland_dd201505
 
 
    
@@ -26,8 +26,8 @@ Using Anaconda distro,
 1. create a new virtual environment, installing packages from requirements file
     
 
-        conda create -n vi2015 --file requirements_conda
-        source activate vi2015
+        conda create -n volunteerireland_dd201505 --file requirements_conda
+        source activate volunteerireland_dd201505
 
 
 
@@ -47,4 +47,4 @@ Using Anaconda distro,
 
 ### Install local data (not stored in the repo)
 
-Data is currently held separately, ask DataKind Dublin leaders where
+Data is currently held separately, ask DataKind Dublin leaders
