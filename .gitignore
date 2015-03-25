@@ -32,7 +32,7 @@
 ## Python related ......................
 
 # iPython notebooks
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
 
 # Python builds
 *.pyc
@@ -64,7 +64,7 @@ nosetests.xml
 .pydevproject
 
 # PyCharm IDE
-.idea/*
+.idea/
 
 
 
